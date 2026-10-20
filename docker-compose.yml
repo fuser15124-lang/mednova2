@@ -1,0 +1,13 @@
+services:
+  mednova:
+    build: .
+    ports:
+      - "8000:8000"
+    env_file:
+      - .env
+    environment:
+      DATABASE_URL: sqlite:////app/data/mednova.db
+    volumes:
+      - mednova_data:/app/data
+volumes:
+  mednova_data:

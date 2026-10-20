@@ -1,0 +1,15 @@
+{
+  "app_name": "MedNova AI",
+  "welcome": "Welcome to MedNova",
+  "overview": "Overview",
+  "medical_chat": "Medical AI chat",
+  "evidence_search": "Evidence search",
+  "documents": "Documents",
+  "search": "Search",
+  "send": "Send",
+  "upload": "Upload document",
+  "signin": "Sign in",
+  "signout": "Sign out",
+  "disclaimer": "Educational information only; not a substitute for professional medical care.",
+  "error": "Request failed"
+}

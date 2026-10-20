@@ -1,0 +1,15 @@
+{
+  "app_name": "MedNova AI",
+  "welcome": "ברוכים הבאים ל‑MedNova",
+  "overview": "סקירה כללית",
+  "medical_chat": "צ׳אט רפואי עם בינה מלאכותית",
+  "evidence_search": "חיפוש ראיות",
+  "documents": "מסמכים",
+  "search": "חיפוש",
+  "send": "שליחה",
+  "upload": "העלאת מסמך",
+  "signin": "כניסה",
+  "signout": "יציאה",
+  "disclaimer": "מידע לימודי בלבד; אינו תחליף לטיפול רפואי מקצועי.",
+  "error": "הבקשה נכשלה"
+}
